@@ -5,7 +5,7 @@ Simple game on C++
 Clone
 
     git clone https://github.com/0x00sh/Stone-Scissor-Paper.git
-    cd Stone-Scissorp-Paper 
+    cd Stone-Scissor-Paper 
 
      
 
